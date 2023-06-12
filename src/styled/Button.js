@@ -18,3 +18,8 @@ export const Button = styled.button`
     transition: 0.3s background ease-in;
   }
 `;
+export const OutlineButton = styled(Button)`
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+`;
