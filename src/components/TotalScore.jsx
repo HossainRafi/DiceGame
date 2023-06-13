@@ -18,4 +18,8 @@ const ScoreContainer = styled.div`
     font-size: 100px;
     line-height: 100px;
   }
+  p {
+    font-size: 24px;
+    font-weight: 500px;
+  }
 `;
