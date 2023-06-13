@@ -1,9 +1,8 @@
-
-
 const GamePlay = () => {
   return (
-    <div>GamePlay</div>
-  )
-}
+    <main>
+    </main>
+  );
+};
 
-export default GamePlay
+export default GamePlay;
