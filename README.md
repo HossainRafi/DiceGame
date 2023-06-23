@@ -2,10 +2,8 @@
 
 ## Technologies:
 - React
-- 
-
-## Project Description:
-### 
+- JavaScript
+- Styled Component
 
 ## Project Image:
 ![app image](imgLink)
